@@ -810,7 +810,10 @@ namespace Smart_Viko_City
             minute = 0;
             hour = 0;
 
-
+            //Bu bir github denemesidir!!!!
+            int git_deneme = 0;
+            
+            //
             #region reset system controls
             label_hour.Text = "0";  //saat dakika temizlenir gece yarısına ayarlanır.
             label_minute.Text = "0";
