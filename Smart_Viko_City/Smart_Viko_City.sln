@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart_Viko_City", "Smart_Viko_City\Smart_Viko_City.csproj", "{041BFF37-D873-4F9B-AFC0-4CE83442919E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C29A892-E312-4B80-B681-319D6CFC91D7}"
+	ProjectSection(SolutionItems) = preProject
+		Smart_Viko_City\bin\Debug\splash_video\bitisik_reklam.mp4 = Smart_Viko_City\bin\Debug\splash_video\bitisik_reklam.mp4
+	EndProjectSection
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup2", "Setup2\Setup2.isproj", "{87E24CEF-0F15-4D3E-BC43-602303BA5632}"
+	ProjectSection(ProjectDependencies) = postProject
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E} = {041BFF37-D873-4F9B-AFC0-4CE83442919E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{041BFF37-D873-4F9B-AFC0-4CE83442919E}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.Debug|Any CPU.ActiveCfg = DVD-5
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.Debug|Any CPU.Build.0 = DVD-5
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.DVD-5|Any CPU.Build.0 = DVD-5
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.Release|Any CPU.ActiveCfg = SingleImage
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.Release|Any CPU.Build.0 = SingleImage
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{87E24CEF-0F15-4D3E-BC43-602303BA5632}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

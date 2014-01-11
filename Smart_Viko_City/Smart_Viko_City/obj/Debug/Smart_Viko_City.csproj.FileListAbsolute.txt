@@ -1,0 +1,54 @@
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe.config
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.pdb
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Interop.WMPLib.dll
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Interop.WMPLib.dll
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csproj.ResolveComReference.cache
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Properties.Resources.resources
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csproj.GenerateResource.Cache
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.exe
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.pdb
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Splash_Form.resources
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Main_Form.resources
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Serial_Port_Open_Form.resources
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe.config
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Interop.WMPLib.dll
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\AxInterop.WMPLib.dll
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csproj.ResolveComReference.cache
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.exe
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.pdb
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.pdb
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Interop.WMPLib.dll
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\AxInterop.WMPLib.dll
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csprojResolveAssemblyReference.cache
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Main_Form.resources
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Serial_Port_Open_Form.resources
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Splash_Form.resources
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Properties.Resources.resources
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csproj.GenerateResource.Cache
+D:\bvural\Desktop\c#\projects\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\City DataBase.accdb
+C:\Users\baycan\Desktop\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe.config
+C:\Users\baycan\Desktop\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Interop.WMPLib.dll
+C:\Users\baycan\Desktop\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\baycan\Desktop\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csproj.ResolveComReference.cache
+C:\Users\baycan\Desktop\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.exe
+C:\Users\baycan\Desktop\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.pdb
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\City DataBase.accdb
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\City_DataBase.accdb
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\data_base.accdb
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Draw_Chart_Form.resources
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.Bill_Form.resources
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csprojResolveAssemblyReference.cache
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe.manifest
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.application
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.exe.manifest
+C:\Users\baycan\Desktop\c# workout\smart_project(daily_record)\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.application
+B:\c#proje\day10\Smart_Viko_City\Smart_Viko_City\bin\Debug\Smart_Viko_City.exe.config
+B:\c#proje\day10\Smart_Viko_City\Smart_Viko_City\obj\Debug\Interop.WMPLib.dll
+B:\c#proje\day10\Smart_Viko_City\Smart_Viko_City\obj\Debug\AxInterop.WMPLib.dll
+B:\c#proje\day10\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.csproj.ResolveComReference.cache
+B:\c#proje\day10\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.exe
+B:\c#proje\day10\Smart_Viko_City\Smart_Viko_City\obj\Debug\Smart_Viko_City.pdb

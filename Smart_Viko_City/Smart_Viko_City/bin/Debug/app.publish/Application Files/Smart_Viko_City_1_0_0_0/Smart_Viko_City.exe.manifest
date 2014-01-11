@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Smart_Viko_City.exe" version="1.0.0.0" publicKeyToken="df2ef3dfb5722ee0" language="tr-TR" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Smart_Viko_City" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Smart_Viko_City.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="53760">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fexaeXU91kRhZbmcWuIhISJozKNPp7ZalHOv29Avlng=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="331264">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qio93y9H5QQCWHEFD8s2fLZwWi4yKSEidiwB5P4CTWU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Smart_Viko_City.exe" size="641536">
+      <assemblyIdentity name="Smart_Viko_City" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OQG7eVbC4S/IGhvCMKDrnG0/6G0MPaDV4N1yuwgY7CY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="City DataBase.accdb" size="524288">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XOkPXMAGNp1mR6pxDWZTEqhoFzMMjimr8EyAYNdxpU8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="City_DataBase.accdb" size="1232896">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Q2maR6Nqf8F7hViz1tSEegNq5y3pjQHUoL8xSbauik0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data_base.accdb" size="626688">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PYY8yDq9wCA2NFsPzobq9rMDc64SHNtvS5jCyyR7qAc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Smart_Viko_City.exe.config" size="974">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JyJwmyDEUfrENvbtbxGod54par30t+9TI6DvkG/5+ZM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=bvural\baycan" issuerKeyHash="fbfda8322ad0657007ed2844b15d39214cedeb9c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ZLq1f6VYcT5sAyIv1U49m8FseYmD3Mc3xnvxbOramJQ=</DigestValue></Reference></SignedInfo><SignatureValue>A4mfTmxgja+Xlf6rHuf3p6jcPxEbKg8EmrHVL1+HCTllWV/epkxrUAM39eNbnnaokDqlRPCg6WPWmh++th0bVHBKc6xlh5ED9AocN692f9aCSl8Tpf3LXNN4+uwS7BsyTbwmSaAsIJDDkI79gQpCVDsK3B0AzKrhXhnp4c3OQIM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uWifVzqVQ99UJHnYsVbOnJoN2+TIQinoQHYJqFc7hFcw3rSGXUzVjpUkNQ7t3dtckzblSruP9pbjvzUlPnwXblUyye9puNZQO7eZoDDGRnI4xF0wvHO1kzd9/M6zp9+2hbCfxrLBZoWJWNeDsMIyLUpYDtmdldFMeWU6eE/Tz+E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9498daea6cf17bc637c7dc8389796cc19b3d4ed52f22036c3e7158a57fb5ba64" Description="" Url=""><as:assemblyIdentity name="Smart_Viko_City.exe" version="1.0.0.0" publicKeyToken="df2ef3dfb5722ee0" language="tr-TR" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=bvural\baycan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1K8HXbro71S1qkOg5W/V6ckCWF4+Bw3FzxFTePj4fsk=</DigestValue></Reference></SignedInfo><SignatureValue>Yr+i2Cu4xubS8LR/njQKRkxHndU4BqS+EF4MFGTzkHWx1rTB8qbBtugy+QAPQKH+isrQqkHgm4sPXuKOGFoVql26StAXIQhGR0kX3iyLfq8n9T9keqjNerVeAlJRkWNBqQg7qFvLSxEjbfn6BqWmTBjYK5h6/hro1o5JD7u91Wo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uWifVzqVQ99UJHnYsVbOnJoN2+TIQinoQHYJqFc7hFcw3rSGXUzVjpUkNQ7t3dtckzblSruP9pbjvzUlPnwXblUyye9puNZQO7eZoDDGRnI4xF0wvHO1kzd9/M6zp9+2hbCfxrLBZoWJWNeDsMIyLUpYDtmdldFMeWU6eE/Tz+E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQdoC1xAKfH59GHY9nNeXRFjANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAYgB2AHUAcgBhAGwAXABiAGEAeQBjAGEAbjAeFw0xMzEyMTMxNDM2MDZaFw0xNDEyMTMyMDM2MDZaMCUxIzAhBgNVBAMeGgBiAHYAdQByAGEAbABcAGIAYQB5AGMAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5aJ9XOpVD31QkedixVs6cmg3b5MhCKehAdgmoVzuEVzDetIZdTNWOlSQ1Du3d21yTNuVKu4/2luO/NSU+fBduVTLJ72m41lA7t5mgMMZGcjjEXTC8c7WTN338zrOn37aFsJ/GssFmhYlY14OwwjItSlgO2Z2V0Ux5ZTp4T9PP4QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJnDVYGRM+vSLnKInM/ghSUCCVzG5jy62ZZy1+6kX52q9rK1t7U5OWrKugAvKjWxX4CFkfMPs5VzszbB4OEXxJ4QQOHzOHhlYGjwkJaLLW+kGkjfIdIw5/vQ9wBoOk1GGh1W8nYkF4NHJHq+kg1eD8O/XFZN8BA380a8JojTBiiD</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
